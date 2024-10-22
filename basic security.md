@@ -20,10 +20,10 @@ Thirdly, ideally a password is changed regularly. If your password gets leaked, 
 
 This may seem unnecessary, but allow me to give you some examples of common passwords and how long specialised software would take to guess them.
 
-cat123 - Instantaneously
-c@t123 - Instantaneously
-myc@t123 - 10 minutes
-Myc@t12345 - 1 week
+cat123 - Instantaneously<br>
+c@t123 - Instantaneously<br>
+myc@t123 - 10 minutes<br>
+Myc@t12345 - 1 week<br>
 
 A few lowercase characters and a few numbers would take less than a second to guess by the software. Adding symbols helps, but not if the password is too short.
 
